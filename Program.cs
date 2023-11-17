@@ -1,7 +1,4 @@
-﻿using System;
-using System.Numerics;
-
-namespace ProjectEuler
+﻿namespace ProjectEuler
 {
     class Program
     {
@@ -20,7 +17,8 @@ namespace ProjectEuler
             // Console.WriteLine($"Problem 12 Answer: {Problem_12.TriangleNumberWithDivisorsOver()}");
             // Console.WriteLine($"Problem 14 Answer: {Problem_14.LongestCollatzChain()}");
             // Console.WriteLine($"Problem 16 Answer: {Problem_16.PowerDigitSum()}");
-            Console.WriteLine(Problem_18.LargestSequenceTotal("Foo"));
+            // Console.WriteLine($"Problem 18 Answer: {Problem_18_67.LargestSequenceTotal("problem_18")}");
+            // Console.WriteLine($"Problem 67 Answer: {Problem_18_67.LargestSequenceTotal("problem_67")}");
         }
     }
 }
