@@ -6,7 +6,7 @@ namespace ProjectEuler
 {
     public class Problem_03
     {
-        public static bool IsPrime(int number)
+        public static bool IsPrime(long number)
         {
             if(number == 2)
             {

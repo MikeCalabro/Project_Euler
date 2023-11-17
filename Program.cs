@@ -16,6 +16,7 @@ namespace ProjectEuler
             // Console.WriteLine($"Problem 7 Answer: {Problem_07.NthPrime()}");
             // Console.WriteLine($"Problem 8 Answer: {Problem_08.GreatestProduct()}");
             // Console.WriteLine($"Problem 9 Answer: {Problem_09.Triple()}");
+            Console.WriteLine(Problem_10.PrimeSumBelowNum());
         }
     }
 }
