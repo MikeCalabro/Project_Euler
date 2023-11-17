@@ -43,7 +43,8 @@ namespace ProjectEuler
         {
             long max = BigMult(number);
 
-            for(long i = number; i < max; i++){
+            for(long i = number; i < max; i++)
+            {
                 if(AreAllMultiples(i, number))
                 {
                     return i;
