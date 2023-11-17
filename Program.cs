@@ -20,6 +20,7 @@ namespace ProjectEuler
             // Console.WriteLine($"Problem 12 Answer: {Problem_12.TriangleNumberWithDivisorsOver()}");
             // Console.WriteLine($"Problem 14 Answer: {Problem_14.LongestCollatzChain()}");
             // Console.WriteLine($"Problem 16 Answer: {Problem_16.PowerDigitSum()}");
+            Console.WriteLine(Problem_18.LargestSequenceTotal("Foo"));
         }
     }
 }
