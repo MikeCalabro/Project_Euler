@@ -19,6 +19,7 @@
             // Console.WriteLine($"Problem 16 Answer: {Problem_16.PowerDigitSum()}");
             // Console.WriteLine($"Problem 18 Answer: {Problem_18_67.LargestSequenceTotal("problem_18")}");
             // Console.WriteLine($"Problem 20 Answer: {Problem_20.FactorialDigitSum()}");
+            // Console.WriteLine($"Problem 21 Answer: {Problem_21.AmicableSumUnder()}");
 
             // Console.WriteLine($"Problem 67 Answer: {Problem_18_67.LargestSequenceTotal("problem_67")}");
         }
