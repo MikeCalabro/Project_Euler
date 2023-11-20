@@ -20,6 +20,7 @@
             // Console.WriteLine($"Problem 18 Answer: {Problem_18_67.LargestSequenceTotal("problem_18")}");
             // Console.WriteLine($"Problem 20 Answer: {Problem_20.FactorialDigitSum()}");
             // Console.WriteLine($"Problem 21 Answer: {Problem_21.AmicableSumUnder()}");
+            // Console.WriteLine($"Problem 22 Answer: {Problem_22.TotalNameScore()}");
 
             // Console.WriteLine($"Problem 67 Answer: {Problem_18_67.LargestSequenceTotal("problem_67")}");
         }
