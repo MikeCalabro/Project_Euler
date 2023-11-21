@@ -23,6 +23,7 @@
             // Console.WriteLine($"Problem 22 Answer: {Problem_22.TotalNameScore()}");
             // Console.WriteLine($"Problem 23 Answer: {Problem_23.AllAbundantSums()}");
             // Console.WriteLine($"Problem 25 Answer: {Problem_25.FibonacciLengthByIndex()}");
+            // Console.WriteLine($"Problem 28 Answer: {Problem_28.NumberSpiralDiagonalSum()}");
 
             // Console.WriteLine($"Problem 67 Answer: {Problem_18_67.LargestSequenceTotal("problem_67")}");
         }
