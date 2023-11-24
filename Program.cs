@@ -14,6 +14,7 @@
             // Console.WriteLine($"Problem 8 Answer: {Problem_08.GreatestProduct()}");
             // Console.WriteLine($"Problem 9 Answer: {Problem_09.Triple()}");
             // Console.WriteLine($"Problem 10 Answer: {Problem_10.PrimeSumBelowNum()}");
+            // Console.WriteLine($"Problem 11 Answer: {Problem_11.GreatestAdjacentProduct()}");
             // Console.WriteLine($"Problem 12 Answer: {Problem_12.TriangleNumberWithDivisorsOver()}");
             // Console.WriteLine($"Problem 14 Answer: {Problem_14.LongestCollatzChain()}");
             // Console.WriteLine($"Problem 16 Answer: {Problem_16.PowerDigitSum()}");
